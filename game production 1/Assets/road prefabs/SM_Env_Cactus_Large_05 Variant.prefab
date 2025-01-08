@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_Env_Cactus_Large_05 Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1291853272559926, guid: f82f799a80f40ea45883e64c70d84f29, type: 3}
+      propertyPath: m_TagString
+      value: Hazard
+      objectReference: {fileID: 0}
     - target: {fileID: 4875007101939110, guid: f82f799a80f40ea45883e64c70d84f29, type: 3}
       propertyPath: m_RootOrder
       value: 0

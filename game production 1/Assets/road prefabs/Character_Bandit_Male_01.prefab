@@ -137,7 +137,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4566917952241982, guid: c8a0daec65a541a4392d5ab9e2e8e9b4, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4566917952241982, guid: c8a0daec65a541a4392d5ab9e2e8e9b4, type: 3}
       propertyPath: m_LocalScale.x
@@ -223,9 +223,6 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1189580221944950, guid: c8a0daec65a541a4392d5ab9e2e8e9b4, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 6605819220280173772}
-    - targetCorrespondingSourceObject: {fileID: 1189580221944950, guid: c8a0daec65a541a4392d5ab9e2e8e9b4, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 188739608523393951}
     - targetCorrespondingSourceObject: {fileID: 1189580221944950, guid: c8a0daec65a541a4392d5ab9e2e8e9b4, type: 3}
       insertIndex: -1
@@ -244,23 +241,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1189580221944950, guid: c8a0daec65a541a4392d5ab9e2e8e9b4, type: 3}
   m_PrefabInstance: {fileID: 6595570766498784907}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &6605819220280173772
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6596670920668214013}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b8e5b12da6e42e49901073982e477f9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  jumpForce: 5
-  groundCheckDistance: 1.96
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 4294967295
 --- !u!143 &188739608523393951
 CharacterController:
   m_ObjectHideFlags: 0

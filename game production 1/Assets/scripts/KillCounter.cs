@@ -14,7 +14,7 @@ public class KillCounter : MonoBehaviour
         Debug.Log("Kills: " + kills);  // Log the kill count to the console
 
         // If the player has killed 30 targets, load the next scene
-        if (kills >= 30)
+        if (kills >= 20)
         {
             LoadNextScene();
         }

@@ -246,7 +246,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 522ca9b3c7584ae4ca71746eeb9d4b05, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  groundTile: {fileID: 2947346707564603440, guid: 5fd5e757ba7cbb447916c8bc0f3421d1, type: 3}
+  groundTile: {fileID: 2947346707564603440, guid: a8ef166e697def74ba447d3d21423aee, type: 3}
 --- !u!4 &1027179122
 Transform:
   m_ObjectHideFlags: 0
